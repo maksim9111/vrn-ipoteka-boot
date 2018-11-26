@@ -52,7 +52,7 @@ body{
 	 background-size: cover;
 	 background-repeat: no-repeat;
 	 background-position: right top;*/
-
+margin-bottom: 0 !important;
 	 position: relative;
         background: #000 url("../images/header.png");
         background-position: center center;
@@ -77,4 +77,11 @@ body{
 }
 .fa-color-white:hover{
 	color: grey;
+}
+.img-top-left-15{
+	top: -10px;
+	left: 0px;
+}
+.padding-left-50{
+	padding-left: 120px;
 }
