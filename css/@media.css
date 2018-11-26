@@ -1,0 +1,37 @@
+/*Font-face site*/
+@font-face {
+    font-family: DINPro-Light; /* Гарнитура шрифта */
+    src: url(../font/dinpro-light.otf); /* Для IE5-8 */
+    src: local(DINPro-Light), url(../fonts/dinpro-light.otf); /* Для остальных браузеров */
+    font-weight: 300;
+    font-style: normal;
+   }
+@font-face {
+    font-family: DINPro-Regular; /* Гарнитура шрифта */
+    src: url(../font/DINPro-Regular.otf); /* Для IE5-8 */
+    src: local(DINPro-Regular), url(../font/DINPro-Regular.otf); /* Для остальных браузеров */
+    font-weight: 400;
+    font-style: normal;
+
+   }
+@font-face {
+    font-family: DINPro-Medium; /* Гарнитура шрифта */
+    src: url(../font/DINPro-Medium.otf); /* Для IE5-8 */
+    src: local(DINPro-Medium), url(../font/DINPro-Medium.otf); /* Для остальных браузеров */
+    font-weight: 600;
+    font-style: normal;
+   }
+@font-face {
+    font-family: DINPro-Bold; /* Гарнитура шрифта */
+    src: url(../font/dinpro-bold.otf); /* Для IE5-8 */
+    src: local(DINPro-Bold), url(../font/dinpro-bold.otf); /* Для остальных браузеров */
+    font-weight: 700;
+    font-style: normal;
+   }
+@font-face {
+    font-family: DINPro-Black; /* Гарнитура шрифта */
+    src: url(../font/dinpro-black.otf); /* Для IE5-8 */
+    src: local(DINPro-Black), url(../font/dinpro-black.otf); /* Для остальных браузеров */
+    font-weight: 900;
+    font-style: normal;
+   }
