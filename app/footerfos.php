@@ -15,7 +15,7 @@
       <div class="form-row">
         <div class="col-md-4 mb-3">
           <label for="validationServer01">Ваше имя:</label>
-          <input type="text" class="form-control is-valid" id="validationServer01" placeholder="First name" value="Имя" required>
+          <input type="text" class="form-control is-valid" id="validationServer01" placeholder="Ваше имя" required>
 <!--       <div class="valid-feedback">
         Отлично!
       </div>
@@ -25,7 +25,7 @@
         </div>
         <div class="col-md-4 mb-3">
           <label for="validationServer02">Ваш телефон</label>
-          <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Last name" value="8 (9xx) xxx-xx-xx" required>
+          <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Ваш телефон" required>
   <!--       <div class="valid-feedback">
            Отлично!
         </div>
@@ -35,7 +35,7 @@
         </div>
         <div class="col-md-4 mb-3">
           <label for="validationServer02">Ваше сообщение</label>
-          <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Last name" value="Сообщение" required>
+          <input type="text" class="form-control is-valid" id="validationServer02" placeholder="Ваше сообщение" required>
 <!--       <div class="valid-feedback">
          Отлично!
       </div>

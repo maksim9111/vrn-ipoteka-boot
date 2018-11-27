@@ -1,7 +1,5 @@
 <!--TODO
 
-- Логотип надо сделать корректным отображением
-- Найти лучше иконки для соц сетей
 - настройка ссылок
 
 
@@ -10,12 +8,12 @@
   <div class="container py-3">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-3 py-3 text-center">
-        <div><img src="images/logo-cik-white-text.png" width="170" height="50" class="rounded mx-auto d-block"></div>
+        <div><img src="images/white-logo-cik.png" width="170" height="45" class="rounded mx-auto d-block"></div>
         <div class="mt-3 text-center">
-          <a href="" class="mx-1"><i class="fab fa-facebook-square fa-2x fa-color-white"></i></a>
-          <a href="" class="mx-1"><i class="fab fa-vk fa-2x fa-color-white"></i></a>
-          <a href="" class="mx-1"><i class="fab fa-youtube fa-2x fa-color-white"></i></a>
-          <a href="" class="mx-1"><i class="fab fa-instagram fa-2x fa-color-white"></i></a>
+          <a href="https://www.facebook.com/vrnipoteka" class="mx-1"><i class="fab fa-facebook-square fa-2x fa-color-white"></i></a>
+          <a href="https://vk.com/vrnipoteka" class="mx-1"><i class="fab fa-vk fa-2x fa-color-white"></i></a>
+          <a href="#" class="mx-1"><i class="fab fa-youtube fa-2x fa-color-white"></i></a>
+          <a href="#" class="mx-1"><i class="fab fa-instagram fa-2x fa-color-white"></i></a>
         </div>
         <a class="btn btn-outline-danger px-3 mt-4 text-white" href="#" role="button">Отправить заявку &raquo;</a>
       </div>
@@ -36,15 +34,6 @@
           <p><a href="" class="text-white none-decoration-a">Оплата услуг</a></p>
           <p><a href="" class="text-white none-decoration-a">Юридическое сопровождение</a></p>
           <p><a href="" class="text-white none-decoration-a">Подбор кредитования</a></p>
-
-       <!--  <ul class="text-white">
-          <li class="din-bold none-li-marker">Полезная информация</li>
-          <li class=""><a href="" class="none-decoration-a text-white">Первичная консультация</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Рефинансирование</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Оплата услуг</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Юридическое сопровождение</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Подбор кредитования</a></li>
-        </ul>         -->
       </div>
       <div class="col-xs-12 col-sm-12 col-md-3 py-3 d-none d-lg-block">
 
@@ -55,15 +44,6 @@
           <p><a href="" class="text-white none-decoration-a">Сбор и оформление документов</a></p>
           <p><a href="" class="text-white none-decoration-a">Профессиональные консультации</a></p>
           <p><a href="" class="text-white none-decoration-a">Услуги по страхованию</a></p>
-
-        <!-- <ul class="text-white">
-          <li class="din-bold none-li-marker">Полезная информация</li>
-          <li class=""><a href="" class="none-decoration-a text-white">Передача документов</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Переговоры с банками</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Сбор и оформление документов</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Профессиональные консультации</a></li>
-          <li class=""><a href="" class="none-decoration-a text-white">Услуги по страхованию</a></li>
-        </ul>         -->
       </div>
     </div>
       <p class="text-white text-center">&copy; Группа компаний "Центр ипотечного кредитования" 2006 - <?php echo date('Y')?></p>

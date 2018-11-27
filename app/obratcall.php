@@ -2,8 +2,8 @@
             <div class="modal fade" id="fosTop" tabindex="-1" role="dialog" aria-labelledby="fosTopTitle" aria-hidden="true">
                 <div class="modal-dialog modal-dialog-centered" role="document">
                     <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="fosTopTitle">Заказать обратный звонок</h5>
+                        <div class="modal-header bg-navs-top">
+                            <h5 class="modal-title text-white" id="fosTopTitle">Заказать обратный звонок</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
@@ -11,7 +11,7 @@
                         <form method="POST">
 
                             <!-- Hidden Required Fields -->
-                            <input type="hidden" name="project_name" value="Рефинансирование">
+                            <input type="hidden" name="project_name" value="Главная страница">
                             <input type="hidden" name="admin_email" value="maksdears@vrnforum.ru">
                             <input type="hidden" name="form_subject" value="TopForm">
                             <!-- END Hidden Required Fields -->
