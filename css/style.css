@@ -47,11 +47,8 @@ body{
  	content: "•"; /* Маркер */
  	padding-right: 7px; /* Отступ от маркера до текста */
 }
-.jumbotron{
-/*	 background-image: url("../images/header.png");
-	 background-size: cover;
-	 background-repeat: no-repeat;
-	 background-position: right top;*/
+/*.jumbotron{
+
 margin-bottom: 0 !important;
 	 position: relative;
         background: #000 url("../images/header.png");
@@ -59,7 +56,7 @@ margin-bottom: 0 !important;
         width: 100%;
         height: 80%;
         background-size: cover;
-}
+}*/
 .bg-my-grey{
 	background: #333333;
 }
@@ -109,4 +106,7 @@ margin-bottom: 0 !important;
 	background: url(../images/covichki.png) no-repeat top left;
 	width: 100%;
 	height: 100%;
+}
+.mt-100{
+	margin-top: 90px;
 }
