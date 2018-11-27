@@ -1,4 +1,12 @@
-    <footer class="container-fluid bg-my-grey">
+<!--TODO
+
+- Логотип надо сделать корректным отображением
+- Найти лучше иконки для соц сетей
+- настройка ссылок
+
+
+-->
+<footer class="container-fluid bg-my-grey">
   <div class="container py-3">
     <div class="row">
       <div class="col-xs-12 col-sm-12 col-md-3 py-3 text-center">

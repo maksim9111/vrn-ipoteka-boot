@@ -1,3 +1,10 @@
+<!--TODO
+- кажется, что телефоны маленькие, может увеличить?
+- код для подмены телефонов
+- Настроить код на "Оставить заявку"
+
+
+-->
 <!--Шапка-->
 <div class="container pt-3 pb-3 justify-content-center d-none d-lg-block">
   <div class="row align-items-center">
