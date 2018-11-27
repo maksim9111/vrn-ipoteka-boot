@@ -41,6 +41,9 @@
           <li class="nav-item">
             <a class="nav-link text-white mx-2" href="#">Контакты</a>
           </li>
+          <li class="nav-item d-xs-block d-sm-block d-md-block d-lg-none d-xl-none">
+            <a class="nav-link text-white mx-2" href="tel:+74732067041">8 (473) 206 70 41</a>
+          </li>
         </ul>
       </div>
     </nav>

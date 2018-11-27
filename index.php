@@ -1,11 +1,5 @@
 <!--TODO
 
-2. Наименование блоков
-  Выделить, увеличить отступы сверху и снизу, должны выделяться
-7. Блок мы группа компаний
-
-
-
 TODO-->
 
 
@@ -19,33 +13,6 @@ TODO-->
 <?php require_once('app/whyourcompany.php');?>
 <?php require_once('app/otzivi.php');?>
 <?php require_once('app/ourcompanies.php');?>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <?php require_once('app/seotext.php');?>
 <?php require_once('app/footerfos.php');?>

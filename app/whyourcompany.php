@@ -7,8 +7,6 @@
 
 
 -->
-
-
 <div class="container-fluid">
 	<div class="container my-5">
 		  <p class="h3 text-uppercase text-center din-bold pt-3 ">наши преимущества</p>
@@ -35,8 +33,5 @@
 					<p class="mt-3">За 11 лет 4700 семей приобрели недвижимость благодаря нам</p>
 				</div>
 			</div>
-			
-
-
 	</div>
 </div>
